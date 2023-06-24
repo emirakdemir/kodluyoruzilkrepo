@@ -7,8 +7,9 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Garanti BBVA Becoder Yazılım
 
 ## Installation
 
-Öncelikle projeyi clonelayın. (gh repo clone emirakdemir/kodluyoruzilkrepo)
+Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
+>git clone gh repo clone emirakdemir/kodluyoruzilkrepo
 ### Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
