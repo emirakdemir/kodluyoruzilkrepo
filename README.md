@@ -2,7 +2,7 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Garanti BBVA Becoder Yazılımcı Yetiştirme ve Meslek Edindirme Programı kapsamında oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![image](https://github.com/emirakdemir/kodluyoruzilkrepo/assets/77544885/4c59b172-0356-41e7-8443-58d5e21675f6)
+![image](https://github.com/emirakdemir/kodluyoruzilkrepo/assets/77544885/eb98a50c-89f9-47a9-94e7-76fbea4d3133)
 
 
 ## Installation
