@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Garanti BBVA Becoder Yazılımcı Yetiştirme ve Meslek Edindirme Programı kapsamında oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Patika & Garanti BBVA Becoder Yazılımcı Yetiştirme ve Meslek Edindirme Programı kapsamında oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ![image](https://github.com/emirakdemir/kodluyoruzilkrepo/assets/77544885/eb98a50c-89f9-47a9-94e7-76fbea4d3133)
 
